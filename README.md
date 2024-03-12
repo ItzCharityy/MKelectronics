@@ -5,7 +5,9 @@ Welcome to our Apple Devices E-Commerce Website repository! This project aims to
 
 Here's an example of an Apple device:
 
-![iPhone](images/iphone.png)
+![iPhone](https://github.com/ItzCharityy/MKelectronics/blob/main/MK's%20ELECTRONICS%20STORE/Home.png)
+
+##======
 
 ## Features
 
