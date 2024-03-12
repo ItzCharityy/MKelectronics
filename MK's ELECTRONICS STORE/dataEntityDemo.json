@@ -1,0 +1,75 @@
+[
+    {
+        "category": "PHONES",
+        "name": "Iphone 7",
+        "price": "4000",
+        "colour": "red",
+        "Left": "5",
+        "pictureSRC" : "https://th.bing.com/th/id/OIP.jv7fZ0xJeb167wqFzzFLkwHaGJ?rs=1&pid=ImgDetMain" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone 7 PLUS" ,
+        "price": "4800",
+        "colour": "black",
+        "Left": "",
+        "pictureSRC" : "https://th.bing.com/th/id/R.7e9c5e8c1e532020b3d353b388f2f12f?rik=OqPBl1dioakwtQ&pid=ImgRaw&r=0" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone 8",
+        "price": "4800",
+        "colour": "rose pink",
+        "Left": "3",
+        "pictureSRC" : "https://i5.walmartimages.com/asr/8c18c65e-4ca5-4a79-81d5-a86fa08e485e_1.0913880f10329a61618a972dc2ddccdd.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone 8 PLUS",
+        "price": "5900",
+        "colour": "blue",
+        "Left": "1",
+        "pictureSRC" : "https://i.pinimg.com/originals/28/a5/a8/28a5a81ed4ea2130fcc8300e874903b1.jpg" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone X",
+        "price": "6500",
+        "colour": "black",
+        "Left": "2",
+        "pictureSRC" : "https://i2.wp.com/cliktodeal.com/wp-content/uploads/2020/08/iphone-x-64gb-gray-e1602916765808.jpg?fit=1065,1000&ssl=1" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone XR",
+        "price": "7000",
+        "colour": "yellow",
+        "Left": "1",
+        "pictureSRC" : "https://th.bing.com/th/id/OIP.eIGcGbtVhnDSMX52zjmf_wHaGk?rs=1&pid=ImgDetMain" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone XS",
+        "price": "7000",
+        "colour": "silver",
+        "Left": "6",
+        "pictureSRC" : "https://th.bing.com/th/id/OIP.tGS4lV_QLUprg-59jaArSgHaF_?rs=1&pid=ImgDetMain" 
+    },
+    {
+        "category": "PHONES",
+        "name": "Iphone 11",
+        "price": "8500",
+        "colour": "white",
+        "Left": "9",
+        "pictureSRC" : "https://tpmobile.vn/wp-content/uploads/2019/11/637037652462548298_11-trang-768x768.jpg" 
+    },
+    {
+        "category": "PHONES",
+        "name": "",
+        "price": "",
+        "colour": "",
+        "Left": "",
+        "pictureSRC" : "" 
+    }
+
+]

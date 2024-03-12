@@ -1,0 +1,9 @@
+.sell{
+
+    height: 800px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("../assets/HomeWALL.jpg");
+    background-size: cover;
+}

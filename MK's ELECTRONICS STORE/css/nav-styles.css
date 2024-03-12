@@ -1,0 +1,76 @@
+
+.navabar-main {
+    height: 80px;
+    width: 100%;
+    background-color: #56B2A6;
+    /*margin: 20px;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0; /* Stick to the top of the viewport */
+    z-index: 1000; /* Set a high z-index to ensure it stays on top of other elements */
+    position: fixed;
+}
+
+
+.bg-container .navabar-main  a {
+    color: #3d625c; /* or any color for links */
+    text-decoration: none; /* or underline, depending on your preference */
+    font-family: cursive;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.bg-container .navabar-main  a:hover{
+    text-decoration: overline;
+    color: blueviolet;
+}
+
+.right{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-end;
+   
+    
+}
+.left{
+    width: 50%;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-start;
+   
+    
+}
+.brandLogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(67, 147, 232);
+    height: 60px;
+    width: 200px;
+    margin-left: 15px;
+    margin-right: 10px; 
+     box-shadow: 0 0 10px rgba(94, 29, 191, 0.1);
+
+}
+
+.brandLogo:hover{
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.brandLogo h3 {
+    margin: 0; /* Remove default margin for <h3> elements */
+}
+
+
+
