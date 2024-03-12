@@ -9,6 +9,11 @@ Here's an example of an Apple device:
 
 ##======
 
+![page2](https://github.com/ItzCharityy/MKelectronics/blob/main/MK's%20ELECTRONICS%20STORE/SecHome.png)
+
+##======
+![page3](https://github.com/ItzCharityy/MKelectronics/blob/main/MK's%20ELECTRONICS%20STORE/ThirdHome.png)
+
 ## Features
 
 1. **Online Payment Integration:** Seamlessly purchase your desired Apple products using secure online payment methods. We integrate with trusted payment gateways to ensure smooth transactions.
