@@ -1,6 +1,11 @@
 # Apple Devices E-Commerce Website
 
 Welcome to our Apple Devices E-Commerce Website repository! This project aims to provide a platform for selling Apple devices online with a range of features to enhance the user experience. Whether you're looking to purchase the latest iPhone, iPad, MacBook, or accessories, or if you're interested in selling your pre-owned Apple devices, our website has you covered.
+## Example Image
+
+Here's an example of an Apple device:
+
+![iPhone](images/iphone.png)
 
 ## Features
 
